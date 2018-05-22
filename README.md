@@ -16,8 +16,6 @@ Erik Eliassen
 - Eliassen, E., Zachrisson, H. D. The Causal Effect of Age of Entry into ECEC on Children’s Social Competence. Submitted 2018.
 
 
-
-
 ## Acknowledgements
 Funded by the Research Counsil of Norway. Approved by ...
 
