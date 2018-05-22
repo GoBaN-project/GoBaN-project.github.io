@@ -1,5 +1,7 @@
 # The GoBaN / BePro research project
 
+## Documentation
+
 ## Contributers
 
 OsloMet - Oslo Metropolitan University:
@@ -15,10 +17,6 @@ OsloMet - Oslo Metropolitan University:
 University of Stavanger:
 * Marit Alvestad, professor
 * Eva Johansson, professor
-
-
-
-
 
 ## Scientific publications
 
