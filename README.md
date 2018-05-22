@@ -7,6 +7,17 @@ Lars Gulbrandsen
 
 Erik Eliassen
 
+## Scientific publications
+
+- Eliassen, E., Zachrisson, H. D., & Melhuish, E. (2018). Is Cognitive Development at 3 Years of Age Associated with ECEC Quality in Norway? European Early Childhood Education Research Journal, 26(1). https://doi.org/10.1080/1350293X.2018.1412050
+
+- Eliassen, E., Zachrisson, H. D., & Melhuish, E. The Causal Effect of Age of Entry into ECEC on Children’s Cognitive   Development. Submitted 2018.
+
+- Eliassen, E., Zachrisson, H. D. The Causal Effect of Age of Entry into ECEC on Children’s Social Competence. Submitted 2018.
+
+
+
+
 ## Acknowledgements
 Funded by the Research Counsil of Norway. Approved by ...
 
