@@ -1,2 +1,2 @@
-# GoBaN-project.github.io
+# GoBaN / BePro
 The GoBaN / BePro research project
