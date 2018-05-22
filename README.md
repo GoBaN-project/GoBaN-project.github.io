@@ -2,4 +2,4 @@
 
 ## Contributers
 
-<list of names>
+![Alt text](https://blogg.hioa.no/betterprovision/files/2013/08/cropped-logo_revised_05.jpg)
