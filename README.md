@@ -2,7 +2,7 @@
 
 ## Contributers
 
-OsloMet - Oslo Metropolitan University
+OsloMet - Oslo Metropolitan University:
 * Elisabeth Bjørnestad, project leader.
 * Lars Gulbrandsen, researcher.
 * Jan-Erik Johannesen, professor.
@@ -12,7 +12,7 @@ OsloMet - Oslo Metropolitan University
 * Trine Simonsen, research assistant.
 * Ida Julie Westheimer, research assistant.
 
-University of Stavanger
+University of Stavanger:
 * Marit Alvestad, professor
 * Eva Johansson, professor
 
