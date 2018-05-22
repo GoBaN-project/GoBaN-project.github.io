@@ -1,2 +1,5 @@
-# GoBaN / BePro
-The GoBaN / BePro research project
+# The GoBaN / BePro research project
+
+## Contributers
+
+<list of names>
