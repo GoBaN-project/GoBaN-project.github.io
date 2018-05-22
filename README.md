@@ -1,11 +1,24 @@
 # The GoBaN / BePro research project
 
 ## Contributers
-Elisabeth Bjørnestad
 
-Lars Gulbrandsen
+OsloMet - Oslo Metropolitan University
+* Elisabeth Bjørnestad, project leader.
+* Lars Gulbrandsen, researcher.
+* Jan-Erik Johannesen, professor.
+* Erik Eliassen, ph.D.
+* Rasmus Kleppe, ph.D.
+* Maren Meyer Hegna, research assistant.
+* Trine Simonsen, research assistant.
+* Ida Julie Westheimer, research assistant.
 
-Erik Eliassen
+University of Stavanger
+* Marit Alvestad, professor
+* Eva Johansson, professor
+
+
+
+
 
 ## Scientific publications
 
