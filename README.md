@@ -2,4 +2,4 @@
 
 ## Contributers
 
-![GoBaN logo](https://blogg.hioa.no/betterprovision/files/2013/08/cropped-logo_revised_05.jpg =250x)
+<img src="https://blogg.hioa.no/betterprovision/files/2013/08/cropped-logo_revised_05.jpg" width=200" />
